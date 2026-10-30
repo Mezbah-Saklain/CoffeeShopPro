@@ -11,7 +11,7 @@ def print_menu():
     print("║  3. Add Sugar         4. Add Whipped Cream       ║")
     print("║  5. Add Caramel       6. Apply Promo Code        ║")
     print("║  7. Checkout          8. Admin: Add Menu Item    ║")
-    print("║  9. Past Orders       0. Exit                    ║")
+    print("║  9. View Past Orders       0. Exit                    ║")
     print("╚══════════════════════════════════════════════════╝")
 
 
