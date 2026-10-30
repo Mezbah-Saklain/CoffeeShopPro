@@ -5,7 +5,7 @@ from admin import Admin
 def print_menu():
     print()
     print("╔══════════════════════════════════════════════════╗")
-    print("║         ☕  WELCOME TO THE COFFEE SHOP  ☕       ║")
+    print("║         ☕  TO THE COFFEE SHOP  ☕       ║")
     print("╠══════════════════════════════════════════════════╣")
     print("║  1. Order Coffee      2. Add Milk                ║")
     print("║  3. Add Sugar         4. Add Whipped Cream       ║")
