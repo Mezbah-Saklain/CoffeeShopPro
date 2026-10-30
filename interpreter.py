@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
 PROMO_CODES = {
-    "HAPPYHOUR": 20,
+    "HAPPYHOUR": 200,
     "WELCOME": 10,
     "STUDENT": 15,
     "WEEKEND": 25,
