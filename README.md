@@ -3,7 +3,7 @@
 A console-based coffee-shop ordering system demonstrating **three design patterns**
 (Decorator, Facade, Interpreter) with persistent SQLite storage and a CI pipeline.
 
-![CI](https://github.com/[YOUR-USERNAME]/[REPO-NAME]/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Mezbah-Saklain/CoffeeShopPro/actions/workflows/ci.yml/badge.svg)
 
 ---
 
